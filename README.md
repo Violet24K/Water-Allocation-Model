@@ -1,2 +1,2 @@
 # Water-Allocation-Model
-Python implementation
+Python implementation for paper "Novel Water Allocation Modeling of Colorado River: Water-Electricity and Efficiency-Equity Tradeoffs"
