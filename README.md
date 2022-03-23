@@ -5,7 +5,7 @@ Python implementation for paper "Novel Water Allocation Modeling of Colorado Riv
 Python3 version 3.8.8  
 numpy version 1.20.1  
 
-## Run
+# Run
 In the console, type
 
 ```
