@@ -9,7 +9,7 @@ numpy version 1.20.1
 In the console, type
 
 ```
-python main.py
+python water_allocation.py
 ```
 
 The default parameters are the parameters we used to do case study. Feel free to change the parameters to simulate multiple conditions and see the results. 
